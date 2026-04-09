@@ -1,7 +1,7 @@
 # Riemann Hypothesis — Proof via OFI Heat-Kernel Evolution
 
 **Author:** Joseph Robert Escamilla
-**Status:** Complete — 100% Proved (unconditional)
+**Status:** Preprint — complete manuscript, not yet formally peer-reviewed
 **Patent:** US 11,954,561 B2 (Reissue Pending)
 **Repository:** https://github.com/JEsca1997/Riemann-Hypothesis
 
@@ -39,7 +39,7 @@ Supporting components:
 
 | File | Description |
 |---|---|
-| `RH.pdf` | Canonical referee-closed proof (complete) |
+| `RH.pdf` | Complete preprint manuscript |
 
 ## OFI Framework
 
